@@ -1,0 +1,119 @@
+KARAN TULSANI 
+
+I am student pursuing MCA, having good knowledge of programming. Seeking opportunities for Software Engineer role in an
+organization where, I can grow and utilize my skill and knowledge to achieve both individual and organizational goals. 
+
+karantulsani.1010@gmail.com 
+
+9824845286 
+
+BHAVNAGAR, INDIA. 
+
+linkedin.com/in/karan-tulsani-8510kt1001 
+
+EDUCATION 
+
+SKILLS 
+
+Master of Computer Applications (MCA). 
+Dharmsinh Desai University, Nadiad. 
+09/2022 - Present,  
+
+7.84 CGPI 
+
+Java 
+
+Android 
+
+Firebase 
+
+MySQL 
+
+Web Designing 
+
+PHP 
+
+Python (basics) 
+
+.NET 
+
+Bachelors of Computer Applications (BCA). 
+Maharaja Krishnakumarsinhji Bhavnagar
+University, Bhavnagar. 
+06/2019 - 03/2022,  
+
+75% 
+
+Higher Secondary School Certiﬁcate (HSC). 
+Gujarat Secondary and Higher Secondary
+Education Board, Bhavnagar. 
+06/2018 - 03/2019,  
+
+80% 
+
+ACHIEVEMENTS 
+
+Awarded First Rank. (01/2022) 
+For Project Smart Parking, of the model solution to parking problems.
+District Level at Flash Event. An application connected with Arduino
+UNO based technology. 
+
+Awarded Second Rank (12/2014) 
+For Project Maglev Train, a sample model for trains running at magnets,
+with ﬁxed circuits and motors and the rubber magnets. At School Level -
+Science Exhibition & Fair. 
+
+Secondary School Certiﬁcate (SSC). 
+Gujarat Secondary and Higher Secondary
+Education Board, Bhavnagar. 
+06/2016 - 03/2017,  
+
+67% 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Gujarati 
+Full Professional Proﬁciency 
+
+Sindhi 
+Native or Bilingual Proﬁciency 
+
+Hindi 
+Full Professional Proﬁciency 
+
+INTERESTS 
+
+Learning 
+
+Coding 
+
+Gaming 
+
+PERSONAL PROJECTS 
+
+Dr.Bhavnagar 
+
+"Dr.Bhavnagar", is an Android application. Developed to get an
+online platform for patients and doctors to get in touch via this
+application. There are many functionalities such as booking
+appointments, blocking timings, chat, calls, prescriptions, details,
+etc. Using, Firestore Firebase. 
+
+Smart Parking 
+
+Smart Parking is a live model project with Arduino UNO
+technologies connected to application. The aim and main
+functionality of this project is of displaying the free parking spaces
+available for drivers or say users to park their vehicles and get such
+security respectively. 
+
+Accident Prevention Model 
+
+This model was developed with various of IR sensor circuits to alert
+the drivers at turn of the other vehicles ahead to void the accident
+that may occurs. 
+
+

@@ -1,0 +1,96 @@
+§ SavanSutariya | (cid:239) Savan Sutariya | (cid:128) savansutariya.github.io | # savanpatel5248@gmail.com | H +91 6355962815
+
+Savankumar Sutariya
+
+Education
+
+2022 - present Master of Computer Applications at Dharmsinh Desai University
+2019 - 2022
+
+Bachelor’s Degree at LJ College of Computer Applications
+
+(GPA: 7.2/10.0)
+(GPA: 7.8/10.0)
+
+Experience
+
+Procurement Genie Pvt. Ltd. — Python Developer Intern
+
+Jun 2022 - Aug 2022
+
+– Collaborated with the development team to create a joint test framework using Selenium, resulting in more efficient
+
+and effective test cases.
+
+Projects
+
+CPU Scheduling Algorithm Visualizer
+
+§ link — (cid:18) Demo
+– Developed using Bootstrap and vanilla JavaScript to visualize CPU scheduling algorithms through real-time simula-
+
+tions.
+
+– Created an interactive and engaging learning experience for users to better understand the concepts and mechanics of
+
+CPU scheduling algorithms.
+
+Student Progress Tracker
+
+§ link
+
+– Developed a project to track student progress and collect useful data.
+
+– Analyzed collected data to extract meaningful information and insights to improve student performance.
+
+– Backend: Python, Django / Frontend: Html, CSS / Frameworks/libraries: Bootstrap, AdminLTE, chart.js, jQuery.
+
+Blog Website (Django)
+
+§ link
+
+– Developed a blog website using Django that allows users to read, register, and write blogs.
+
+– Implemented user authentication and content management features to enhance the user experience.
+
+– Backend: Python, Django / Frontend: Html, CSS / Frameworks and libraries: Bootstrap.
+
+FreshhMinds Twitter-Bot
+
+§ link — (cid:139) Demo
+– Developed a Twitter bot for a coding community that automatically retweets tweets with relevant hashtags, using the
+
+Twitter API.
+
+– Improved the visibility and reach of the community’s content on Twitter, resulting in increased engagement and growth.
+
+– Backend: Python, Tweepy, SQLite3.
+
+Achivements and Extra Curricular
+
+Conducted a Two-Day Workshop on Git and GitHub at LJ College (July 2023)
+
+(cid:239) Post
+
+– Invited by LJ College to share my expertise and knowledge on Git and GitHub with students.
+
+– Designed and delivered an interactive and engaging presentation, including hands-on exercises and real-world exam-
+ples, to help students understand the use and benefits of these tools for version control and collaboration in software
+development.
+
+Core Team Member, Appli Monks Tech Club
+
+– Organized and co-organized various events and activities for the tech club at my college.
+
+– Collaborated with other team members to plan and execute successful events, resulting in increased participation and
+
+engagement from the students.
+
+Skills
+
+Programming : Python, C, SQL.
+Libraries/Frameworks : Django, Selenium, Flask.
+Tools/Platforms : Git, GitHub / Jira.
+Other : Data Structures and Algorithms / OOPS / Linux.
+
+

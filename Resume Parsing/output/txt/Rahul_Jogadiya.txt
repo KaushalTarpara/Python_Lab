@@ -1,0 +1,151 @@
+Rahul D. Jogadiya 
++91 91 06 997 401 
+rahuljogadiya3@gmail.com 
+
+ACADEMIC QUALIFICATIONS 
+
+Degree/Exam 
+Master of Computer Applications – Sem 2 
+Master of Computer Applications – Sem 1 
+Bachelor of Computer Applications – Sem 6 
+Bachelor of Computer Applications – Sem 5 
+Bachelor of Computer Applications – Sem 4 
+Bachelor of Computer Applications – Sem 3 
+Bachelor of Computer Applications – Sem 2 
+Bachelor of Computer Applications – Sem 1 
+CLASS XII 
+CLASS X 
+
+Board/Institute 
+Dharmsinh Desai University 
+Dharmsinh Desai University 
+Shree Swami Narayan College Of Computer Science 
+Shree Swami Narayan College Of Computer Science 
+Shree Swami Narayan College Of Computer Science 
+Shree Swami Narayan College Of Computer Science 
+Shree Swami Narayan College Of Computer Science 
+Shree Swami Narayan College Of Computer Science 
+GSEB (Shree Gyanguru Vidhyapith) 
+GSEB (Shree Gyanguru Vidhyapith) 
+
+%/CGPA 
+7.28 SPI 
+6.88 SPI 
+67.11% 
+67.11% 
+71.92% 
+63.65% 
+60.57% 
+57.5% 
+67.3% 
+65.8% 
+
+Year 
+2024 
+2023 
+2022 
+2022 
+2021 
+2021 
+2020 
+2019 
+2019 
+2017 
+
+ACADEMIC REFEREES 
+
+Name 
+Devdutt Chavda 
+Nirav Shah 
+
+Designation 
+Professor - Shree Swami Narayan College Of Computer Science 
+Professor - Shree Swami Narayan College Of Computer Science 
+
+Contact 
++91 88 66 981 290 
++91 78 78 331 246 
+
+TECHNICAL SKILLS 
+
+Programming Languages 
+Other Technologies 
+
+PHP, HTML, CSS, VB.NET, Java, C, C++, Python 
+Bootstrap, ASP.NET, XAMPP, MySQL, MongoDB 
+
+PROJECTS 
+
+Project Name: Dream Destination 
+
+(Under Prof. Mr. Amit Hariyani) 
+
+Nov`21-Mar`22 
+
+Dream Destination is a website that allows people to book the best Indian package that offers hotel recommendations with 
+hotel booking and travel the city with own buses and also, we are including relevant tips on language and local dialect. The 
+website includes packing tips for the tour and maps and guides about India. We are spending considerable amounts of time 
+ideating tour packages that guarantee to make travelling with us and experience like no other. 
+
+EXTRA-CURRICULAR ACTIVITIES 
+
+Scout & Guide 
+
+STTP Workshop 
+
+ 
+Participated in the pioneering camp by scout and guide association of Bhavnagar district 
+ 
+Showed exceptional leadership capabilities in scout & guide annual introduction camp 
+  Worked continuously in scout & guide association to train fellow students and help others 
+
+  Attended the STTP workshop: You actively participated in a Short Term Training Program 
+
+ 
+
+ 
+
+focused on AWS, Image Processing, and Docker. 
+Explored AWS services: During the workshop, I gained insights into various AWS (Amazon 
+Web Services) offerings and learned how to leverage them for deploying and managing 
+applications. 
+Learned Image Processing techniques: The workshop provided you with in-depth 
+knowledge of Image Processing, including image manipulation, analysis, and feature 
+extraction using different algorithms and libraries. 
+
+  Hands-on experience: I had the opportunity to engage in practical exercises and hands-on 
+sessions, where you implemented Image Processing techniques using AWS infrastructure 
+and services. 
+
+2016 
+2015 
+2015 
+
+2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Docker containerization: The workshop covered the fundamentals of Docker, a 
+
+ 
+
+containerization platform, and taught you how to create, deploy, and manage Docker 
+containers for packaging applications and their dependencies. 
+Integration with AWS: I learned how to combine Docker with AWS services, such as 
+Amazon Elastic Container Service (ECS) or Amazon Elastic Kubernetes Service (EKS), to 
+facilitate the deployment and scaling of containerized applications. 
+
+  Networking and collaboration: The workshop provided a platform to network with fellow 
+participants, allowing you to exchange ideas, insights, and experiences related to AWS, 
+Image Processing, and Docker. 
+
+ 
+
